@@ -1,0 +1,11 @@
+{
+  "name": "afterglow-like",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Afterglow",
+  "repository": "https://github.com/dsandstrom/atom-afterglow-like-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
