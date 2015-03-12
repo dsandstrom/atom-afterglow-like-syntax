@@ -6,4 +6,4 @@ A minimal dark syntax theme converted from [Afterglow](https://github.com/Yabata
 ### Notes
 A UI Theme is planned, but for now I use [Isotope UI](https://github.com/braver/isotope-ui) with a custom background color of #252525.
 
-<!-- ![Afterglow Like](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif) -->
+![Afterglow Like](src="https://cloud.githubusercontent.com/assets/1400414/6611657/41159822-c82c-11e4-9f9c-38c6d46d3a36.png")
