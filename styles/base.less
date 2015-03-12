@@ -21,7 +21,9 @@ atom-text-editor .gutter .line-number.cursor-line-no-selection, :host .gutter .l
 }
 
 atom-text-editor .wrap-guide, :host .wrap-guide {
-  color: @syntax-wrap-guide-color;
+  // color: @syntax-wrap-guide-color;
+  background-color: transparent;
+  border-left: 1px dashed @syntax-wrap-guide-color;
 }
 
 atom-text-editor .indent-guide, :host .indent-guide {
