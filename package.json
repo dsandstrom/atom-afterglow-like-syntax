@@ -2,7 +2,7 @@
   "name": "afterglow-like",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "Afterglow",
+  "description": "Minimal dark theme derived from idlefingers.",
   "repository": "https://github.com/dsandstrom/atom-afterglow-like-syntax",
   "license": "MIT",
   "engines": {
