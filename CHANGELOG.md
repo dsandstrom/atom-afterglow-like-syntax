@@ -1,5 +1,9 @@
 # Changelog
 
+### 0.3.0
+*2017-2-9*
+- Use new package "Afterglow Syntax"
+
 ### 0.2.1
 *2015-5-19*
 - Fix wrap guide dashyness
